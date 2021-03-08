@@ -106,3 +106,5 @@ dist
 
 # Build
 dist
+
+coverage
