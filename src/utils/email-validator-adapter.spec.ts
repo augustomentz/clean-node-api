@@ -1,5 +1,4 @@
 import validator from 'validator'
-
 import { EmailValidatorAdapter } from './email-validator-adapter'
 
 // Mock validator lib

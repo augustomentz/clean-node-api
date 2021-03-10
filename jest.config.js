@@ -9,7 +9,8 @@ module.exports = {
     '!<rootDir>/src/**/*-protocols.ts',
     '!**/protocols/**',
     '!**/test/**',
-		'!**/index.ts'
+		'!**/index.ts',
+		'!<rootDir>/src/domain/**'
   ],
   coverageDirectory: 'coverage',
   transform: {
